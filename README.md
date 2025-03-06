@@ -52,7 +52,7 @@ python app.py https://example.com -o results.txt
 
 ## Screenshots
 
-(Consider adding screenshots of the tool in action)
+![Screenshot 1](https://github.com/medjahdi/PyEYE/blob/main/22.png)
 
 ## Disclaimer
 
